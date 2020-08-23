@@ -1,3 +1,0 @@
-# QAI
-Here we go.
-
